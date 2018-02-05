@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JustJava2.0</string>
+    <string name="username_hint">Enter name...</string>
+    <string name="latte">Latte</string>
+    <string name="cappuccino">Cappuccino</string>
+    <string name="flat_white">Flat White</string>
+    <string name="mocha">Cafe Mocha</string>
+    <string name="frappe">Frappuccino</string>
+    <string name="black_coffee">Black Coffee</string>
+    <string name="cortado">Cortado</string>
+    <string name="espresso">Espresso</string>
+    <string name="macchiato">Macchiato</string>
+    <string name="summary">Order Summary</string>
+    <string name="initial_number">0</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="add_button">Add Coffee</string>
+    <string name="cancel_button">Never Mind</string>
+    <string name="submit_button">Send Order</string>
+    <string name="total">Total Price: </string>
+    <string name="email_address">mailto:coffeeorder@somedomain.com</string>
+    <string name="email_subject">Coffee Order</string>
+</resources>
